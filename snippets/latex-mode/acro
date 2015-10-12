@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: \newacronym{}
+# key: acro
+# --
+\newacronym{${1:label}}{${2:abbrv}}{${3:full}}

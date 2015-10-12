@@ -1,0 +1,3 @@
+https://github.com/davidmiller/pony-mode.git
+https://github.com/rooney/zencoding.git
+\nhttps://github.com/hober/html5-el.git

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: cite
+# key: cite
+# binding: direct-keybinding
+# expand-env: ((some-var some-value))
+# type: command
+# --
+\citep{$1}$0

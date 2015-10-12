@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: !DOCTYPE
+# key: doct5
+# binding: direct-keybinding
+# --
+<!DOCTYPE html>
+$0
+
+
+</html>

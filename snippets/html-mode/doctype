@@ -1,0 +1,6 @@
+Debugger entered--Lisp error: (error "Cannot return from the debugger in an error")
+  signal(error ("/home/emlyn/.emacs.d/snippets/html/ is a directory"))
+  error("%s is a directory" "/home/emlyn/.emacs.d/snippets/html/")
+  basic-save-buffer()
+  save-buffer(1)
+  call-interactively(save-buffer nil nil)

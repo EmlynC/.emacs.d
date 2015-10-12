@@ -1,0 +1,11 @@
+# name: \begin{figure} ... \end{figure} 
+# key: figure
+# --
+
+\begin{figure}[htp]
+    \includegraphics[width=\linewidth]{results/figures/${1:filename}}
+    
+    \caption[${2:short description}]{${3:long description}}    
+    \label{${4:label reference}}
+\end{figure}
+$0

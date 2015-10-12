@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: table
+# key: table
+# binding: direct-keybinding
+# expand-env: ((some-var some-value))
+# type: command
+# --
+\begin{table}[hp]
+  \centering
+  \caption[$1]{$2}
+  \resizebox{\columnwidth}{!}{
+    \begin{tabular}[]{}
+    \end{tabular}
+  }
+  \label{$3}
+\end{table}
